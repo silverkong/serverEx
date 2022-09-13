@@ -16,8 +16,8 @@
 				<article id="slideShow">
 					<!-- 이전/다음 버튼 -->
 					<div id="prevNextButtonBox">
-						<img id="prevButton" src="<c:url value='/images/prevButton.png'/>">
-						<img id="nextButton" src="<c:url value='/images/nextButton.png'/>">
+						<img id="prevButton" src="<c:url value='/images/project_ex/prevButton.png'/>">
+						<img id="nextButton" src="<c:url value='/images/project_ex/nextButton.png'/>">
 					</div>
 					<!-- slideShowBox  -->
 					<div id="slideShowBox">
